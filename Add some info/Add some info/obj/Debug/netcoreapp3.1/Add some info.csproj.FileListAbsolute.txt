@@ -1,0 +1,14 @@
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.exe
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.deps.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.runtimeconfig.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.runtimeconfig.dev.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\bin\Debug\netcoreapp3.1\Add some info.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.csproj.AssemblyReference.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.AssemblyInfoInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.AssemblyInfo.cs
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.csproj.CoreCompileInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Add some info\Add some info\obj\Debug\netcoreapp3.1\Add some info.genruntimeconfig.cache

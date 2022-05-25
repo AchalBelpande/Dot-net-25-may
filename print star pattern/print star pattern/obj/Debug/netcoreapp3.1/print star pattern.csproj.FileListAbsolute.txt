@@ -1,0 +1,14 @@
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.exe
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.deps.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.runtimeconfig.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.runtimeconfig.dev.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\bin\Debug\netcoreapp3.1\print star pattern.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.AssemblyInfoInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.AssemblyInfo.cs
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.csproj.CoreCompileInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.genruntimeconfig.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\print star pattern\print star pattern\obj\Debug\netcoreapp3.1\print star pattern.csproj.AssemblyReference.cache

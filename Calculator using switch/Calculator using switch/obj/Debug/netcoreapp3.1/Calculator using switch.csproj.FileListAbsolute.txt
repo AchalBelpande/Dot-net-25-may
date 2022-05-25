@@ -1,0 +1,14 @@
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.exe
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.deps.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.runtimeconfig.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.runtimeconfig.dev.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\bin\Debug\netcoreapp3.1\Calculator using switch.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.csproj.AssemblyReference.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.AssemblyInfoInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.AssemblyInfo.cs
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.csproj.CoreCompileInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\Calculator using switch\Calculator using switch\obj\Debug\netcoreapp3.1\Calculator using switch.genruntimeconfig.cache

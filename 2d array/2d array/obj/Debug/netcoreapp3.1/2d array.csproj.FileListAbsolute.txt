@@ -1,0 +1,14 @@
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.exe
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.deps.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.runtimeconfig.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.runtimeconfig.dev.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\bin\Debug\netcoreapp3.1\2d array.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.csproj.AssemblyReference.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.AssemblyInfoInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.AssemblyInfo.cs
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.csproj.CoreCompileInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\2d array\2d array\obj\Debug\netcoreapp3.1\2d array.genruntimeconfig.cache

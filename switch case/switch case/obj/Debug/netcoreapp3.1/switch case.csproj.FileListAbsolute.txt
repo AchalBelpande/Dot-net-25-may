@@ -1,0 +1,14 @@
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.csproj.AssemblyReference.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.AssemblyInfoInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.AssemblyInfo.cs
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.csproj.CoreCompileInputs.cache
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.exe
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.deps.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.runtimeconfig.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.runtimeconfig.dev.json
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\bin\Debug\netcoreapp3.1\switch case.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.dll
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.pdb
+C:\Users\kartik kapgate\OneDrive\Desktop\Dot net\switch case\switch case\obj\Debug\netcoreapp3.1\switch case.genruntimeconfig.cache
